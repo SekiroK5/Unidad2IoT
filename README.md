@@ -11,7 +11,7 @@ Y sonará una alarma, en caso contrario, el led se pondrá verde y se apagará l
 ![image](https://github.com/user-attachments/assets/08f6218c-705b-4506-b8c3-f7e102291f0d)
 
 
-Enlace a la carpeta de los vídeos sobre la actividad integral
+##Enlace a la carpeta de los vídeos sobre la actividad integral
 https://drive.google.com/drive/folders/1CDT8U9MDHlgroJ-shkSJuLLNG2UAfrlA?usp=drive_link
 
 #Actividades hechas en clase
@@ -24,17 +24,17 @@ https://drive.google.com/drive/folders/1cqziHjRZrMNDemqe3XWiNNGBZvI9oX9d?usp=dri
 https://drive.google.com/drive/folders/1yrVRI5KH1Bj2SyfBvBQtwwgh5TfSstt-?usp=drive_link
 ## No4.- Semaforo
 https://drive.google.com/drive/folders/11hyzS2J0S8ZhGf1gmf-k5SkeAg35YD3E?usp=drive_link
-##No5.- Buzzer
+## No5.- Buzzer
 https://drive.google.com/drive/folders/19RM4DTXHslpsOv7VzTHbAPXgsV25d7hz?usp=drive_link
-##No6.- Oled y potenciometro
+## No6.- Oled y potenciometro
 https://drive.google.com/drive/folders/1qDNT0zBRAps10U9Thehp7PtBaQHbJoi3?usp=drive_link
-##No7.- Motor a pasos
+## No7.- Motor a pasos
 https://drive.google.com/drive/folders/1XK4-dWuhg-9v4Ra20wMSJY6qk5HGoYsj?usp=drive_link
-##No8.- Matriz y Potenciometro
+## No8.- Matriz y Potenciometro
 https://drive.google.com/drive/folders/1HdwaJJTc2beWkszBTPGqiaz0a4d7ztJR?usp=drive_link
-##No9.- Matriz
+## No9.- Matriz
 https://drive.google.com/drive/folders/1KYxpGuq5FRc2pUxL8SgTUjQOC1nZ1s3-?usp=drive_link
-##No10.- Joystick
+## No10.- Joystick
 https://drive.google.com/drive/folders/1ElsKZrCY7drTCdAiJEOcDtNv0i3Oe07C?usp=drive_link
 
 
