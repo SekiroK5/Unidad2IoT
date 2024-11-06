@@ -42,7 +42,7 @@ https://drive.google.com/drive/folders/1ElsKZrCY7drTCdAiJEOcDtNv0i3Oe07C?usp=dri
 https://drive.google.com/drive/folders/1Oea_8BO5vYvQicY5dacjqsSrA4_E6y7i?usp=drive_link
 
 # Entrega de muestras del curso de python
-#A lo largo del curso se vieron muchas cosas distintas, desde lo más básico, que ses la declaración de variables, hasta el manejo de ciclos, esto último es algo que nos sirvió en nuestro avance de proyecto, ya que entramos en un ciclo para el encendido  del buzzer y el movimiento del servo, otras cosas que se usaron es el definir funciones, esto para tener ya sea un movimiento o una acción y así mandarla a llamar al final donde se ocupará. Son cosas algo sencillas de hacer, pero que al final nos terminará sirviendo mucho, en su caso, también hicimos el uso de excepciones, esto al tener la posicibilidad de encontrar un error y evitar que se cierre el programa.
+A lo largo del curso se vieron muchas cosas distintas, desde lo más básico, que ses la declaración de variables, hasta el manejo de ciclos, esto último es algo que nos sirvió en nuestro avance de proyecto, ya que entramos en un ciclo para el encendido  del buzzer y el movimiento del servo, otras cosas que se usaron es el definir funciones, esto para tener ya sea un movimiento o una acción y así mandarla a llamar al final donde se ocupará. Son cosas algo sencillas de hacer, pero que al final nos terminará sirviendo mucho, en su caso, también hicimos el uso de excepciones, esto al tener la posicibilidad de encontrar un error y evitar que se cierre el programa.
 
 ## Puntajes obtenidos en el curso
 Modulo 1
@@ -61,17 +61,23 @@ Prueba Final
 ## Coevaluación a mi compañero César Fernando Gonzáles Ávalos
 Mi compañero es un poco introvertido, es demasiado inteligente en este ámbito y es alguien de quien he aprendido mucho en esta materia.
 
-# Dominio técnico: Demuestra un buen entendimiento de los conceptos de la materia, sabe que realizar y a que se refiere cuando se nombra a cada componente que se usará.
+# Dominio técnico: 
+Demuestra un buen entendimiento de los conceptos de la materia, sabe que realizar y a que se refiere cuando se nombra a cada componente que se usará.
 
-# Programación y configuración: sus códigos llegan a ser claros y bien explicados, sabe bien lo que hace cada parte del código que proporciona y el porque lo usa, a veces tiene una distracción al conectar los componentes a los pines indicados o se confunde de como se debería de conectar.
+# Programación y configuración:
+sus códigos llegan a ser claros y bien explicados, sabe bien lo que hace cada parte del código que proporciona y el porque lo usa, a veces tiene una distracción al conectar los componentes a los pines indicados o se confunde de como se debería de conectar.
 
-# Integración Hardware-Software: Supo integrar de una buena manera los componentes a lo largo de las practicas y en el avance del proyecto, teniendo el resultado deseado por los dos.
+# Integración Hardware-Software:
+Supo integrar de una buena manera los componentes a lo largo de las practicas y en el avance del proyecto, teniendo el resultado deseado por los dos.
 
-# Trabajo en equipo: mantuvo buena comunicación, supo explicar cuando no tenía claro lo que se hacía o como se harían las cosas, siempre se mantuvo al tato del avance y ayudando en la correción de errores.
+# Trabajo en equipo:
+Mantuvo buena comunicación, supo explicar cuando no tenía claro lo que se hacía o como se harían las cosas, siempre se mantuvo al tato del avance y ayudando en la correción de errores.
 
-# Responsabilidad: es puntual en la materia e hizo todo en tiempo y forma.
+# Responsabilidad: 
+Es puntual en la materia e hizo todo en tiempo y forma.
 
-# Evaluación final: 9.6, aunque en su mayoría fue destacable, falta un poco en tomar más iniciativa para corroborar los avances del proyecto, de ahí en fuera, me siento muy cómodo trabajando con él
+# Evaluación final: 
+9.6, aunque en su mayoría fue destacable, falta un poco en tomar más iniciativa para corroborar los avances del proyecto, de ahí en fuera, me siento muy cómodo trabajando con él
 
 
 
